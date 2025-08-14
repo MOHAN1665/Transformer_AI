@@ -9,7 +9,7 @@ def load_label_encoder(path="label_encoder.pkl"):
     return joblib.load(path)
 
 @st.cache_resource
-def load_pipeline(model_dir="fine-tuned-airline-model"):
+def load_pipeline(model_dir="Mohan1665/airline-tweet-classifier"):
     return pipeline("text-classification", model=model_dir, tokenizer=model_dir, top_k=None)
 
 label_encoder = load_label_encoder()
