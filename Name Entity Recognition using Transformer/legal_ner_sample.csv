@@ -1,0 +1,14 @@
+sentence,entity,label
+"This contract is entered into on January 1, 2022 between Alpha Corp and Beta LLC.","January 1, 2022",DATE
+"This contract is entered into on January 1, 2022 between Alpha Corp and Beta LLC.",Alpha Corp,ORG
+"This contract is entered into on January 1, 2022 between Alpha Corp and Beta LLC.",Beta LLC,ORG
+"John Smith agrees to deliver the goods by March 10, 2023 as per Clause 5.2 of the agreement.",John Smith,PERSON
+"John Smith agrees to deliver the goods by March 10, 2023 as per Clause 5.2 of the agreement.","March 10, 2023",DATE
+"John Smith agrees to deliver the goods by March 10, 2023 as per Clause 5.2 of the agreement.",Clause 5.2,CLAUSE
+"Pursuant to Section 7A of the Data Protection Act, the parties agree to confidentiality terms.",Section 7A,CLAUSE
+"Pursuant to Section 7A of the Data Protection Act, the parties agree to confidentiality terms.",Data Protection Act,LAW
+"Jane Doe, the attorney representing Omega Inc., signed the contract on April 15th, 2021.",Jane Doe,PERSON
+"Jane Doe, the attorney representing Omega Inc., signed the contract on April 15th, 2021.",Omega Inc.,ORG
+"Jane Doe, the attorney representing Omega Inc., signed the contract on April 15th, 2021.","April 15th, 2021",DATE
+"The monetary penalty shall not exceed $100,000 under the terms of the Intellectual Property Law.","$100,000",MONEY
+"The monetary penalty shall not exceed $100,000 under the terms of the Intellectual Property Law.",Intellectual Property Law,LAW
