@@ -60,13 +60,13 @@ streamlit run app.py
 ## How It Works
 
 1. Normalization & Tokenization:
-      Converts input to lowercase, removes punctuation, splits into tokens.
+   Converts input to lowercase, removes punctuation, splits into tokens.
 
 2. Attention Score Calculation:
-      Each token is compared to others using predefined embeddings to determine word importance.
+   Each token is compared to others using predefined embeddings to determine word importance.
 
 3. Best Match Retrieval:
-      Compares token sets with existing database entries to find the closest matching question.
+   Compares token sets with existing database entries to find the closest matching question.
 
 4. Decoder:
-      Fetches the answer associated with the best matching question from memory.
+   Fetches the answer associated with the best matching question from memory.
