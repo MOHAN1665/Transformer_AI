@@ -70,3 +70,20 @@ streamlit run app.py
 
 4. Decoder:
    Fetches the answer associated with the best matching question from memory.
+
+## Memory Update
+
+- Memory is stored in qa_memory.json.
+- Use the app interface to add new Q&A pairs.
+- Updates are automatically saved and reflected in subsequent queries.
+
+## Dependencies
+
+- Python 3.8+
+- Streamlit
+- Pandas
+- re (Regex for text processing)
+- json (for memory persistence)
+
+## License
+This project is open-source and available under the MIT License.
