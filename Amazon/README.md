@@ -29,8 +29,8 @@ A web application that analyzes Amazon product reviews and classifies them into 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MOHAN1665/Transformer_AI.git
-cd Transformer_AI/Amazon
+git clone https://github.com/MOHAN1665/Transformer_AI/tree/main/Amazon
+cd Amazon
 ```
 
 2. Create a virtual environment:
