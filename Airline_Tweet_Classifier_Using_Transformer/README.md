@@ -30,8 +30,8 @@ A web application that classifies airline-related tweets into sentiment categori
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MOHAN1665/Transformer_AI.git
-cd Transformer_AI/Airline_Tweet_Classifier_Using_Transformer
+git clone https://github.com/MOHAN1665/Transformer_AI/tree/main/Airline_Tweet_Classifier_Using_Transformer
+cd Airline_Tweet_Classifier_Using_Transformer
 ```
 
 2. Create a virtual environment:
