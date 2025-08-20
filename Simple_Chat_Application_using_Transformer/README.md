@@ -30,8 +30,8 @@ A lightweight, memory-augmented chatbot built using Python and Streamlit. This p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MOHAN1665/Transformer_AI.git
-cd Transformer_AI/Aadhaar_Services_Chatbot
+git clone https://github.com/MOHAN1665/Transformer_AI/tree/main/Simple_Chat_Application_using_Transformer
+cd Simple_Chat_Application_using_Transformer
 ```
 
 2. Create a virtual environment (recommended):
