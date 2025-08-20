@@ -30,6 +30,6 @@ Welcome to **Transformer_AI**, a collection of AI/ML projects built using Transf
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/MOHAN1665/Transformer_AI.git
 cd Transformer_AI
 ```
