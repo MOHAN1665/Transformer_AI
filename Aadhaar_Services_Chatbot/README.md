@@ -41,8 +41,8 @@ A conversational AI assistant designed to provide information and support for **
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd aadhaar-chatbot
+git clone [<repository-url>](https://github.com/MOHAN1665/Transformer_AI/tree/main/Aadhaar_Services_Chatbot)
+cd Aadhaar_Services_Chatbot
 ```
 
 2. Install dependencies:
