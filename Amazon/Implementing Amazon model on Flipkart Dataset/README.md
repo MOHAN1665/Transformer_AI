@@ -30,8 +30,8 @@ An interactive web application that predicts the sentiment of Flipkart product r
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MOHAN1665/Transformer_AI.git
-cd Transformer_AI/Amazon  # or the folder containing this app
+git clone https://github.com/MOHAN1665/Transformer_AI/tree/main/Amazon/Implementing%20Amazon%20model%20on%20Flipkart%20Dataset
+cd Implementing_Amazon_model_on_Flipkart_Dataset  # or Paste correct Folder path
 ```
 
 2. Create a virtual environment:
