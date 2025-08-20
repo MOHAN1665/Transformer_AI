@@ -29,8 +29,8 @@ A web-based NER tool built using **Gradio** and a fine-tuned **Transformer model
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MOHAN1665/Transformer_AI.git
-cd Transformer_AI/Name_Entity_Recognition_using_Transformer
+git clone https://github.com/MOHAN1665/Transformer_AI/tree/main/Name%20Entity%20Recognition%20using%20Transformer
+cd Name_Entity_Recognition_using_Transformer  #Paste correct folder path
 ```
 
 2. Create a virtual environment:
