@@ -1,6 +1,7 @@
 # Aadhaar Services Assistant Chatbot 🤖
 
 A conversational AI assistant designed to provide information and support for **Aadhaar-related services in India**. This chatbot leverages advanced natural language processing to answer queries about Aadhaar updates, e-KYC services, mAadhaar app, PVC cards, and more.
+
 ![Aadhaar Services Assistant Chatbot](home.png)
 
 ---
